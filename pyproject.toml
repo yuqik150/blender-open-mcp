@@ -3,3 +3,4 @@ name = "blender-open-mcp"
 version = "0.1.0"
 description = "MCP for Blender Using Open Weights Models"
 requires-python = ">=3.10"
+# drop an unused branch
